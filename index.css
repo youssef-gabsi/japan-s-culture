@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Condensed&display=swap');
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Cabin Condensed', sans-serif;
+}
+.food-body{
+    margin: 0 auto;
+}
+.main.container {
+    margin: 100px 14%;
+  }  
+.row {
+    display: inline-block;
+    clear: both;
+    width: 100%;
+  }
+.img7{
+    width: 500px;
+}
+  .article img {
+    border: 1px solid lightgray;
+    height: 360px;
+    width: 100%;
+  }
+  
+  .article p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .col-3 {
+    width: 30%;
+    float: left;
+    margin: 1%;
+  }
+header{
+    margin: 60px 0;
+    text-align: center;
+}
+ul li{
+    list-style-type: none;
+    text-align: center;
+    display: inline;
+    padding: 0 15px;
+    margin: 0 20px;
+}
+.links{
+    color: black;
+    text-decoration: none;
+}
+.active, .links:hover{
+    text-decoration: underline;
+}
+.img1{
+    width: 100%;
+    position: relative;
+    top: -62px;
+}
+.img2{
+    width: 100%;
+    position: relative; 
+    top: -62px;
+}
+.img3{
+    width: 500px;
+}
+.table1{
+    padding-left: 40px;
+}
+.title{
+    font-family: 'Tangerine', cursive;
+    font-size: 100px
+}
+.small-title{
+    font-family: 'Tangerine', cursive;
+    font-size: 50px;
+ }
+.smalll-title{
+    font-family: 'Tangerine', cursive;
+    font-size: 35px;
+}
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+  }
+  
+
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    border-radius: 5px;
+    padding: 20px;
+    margin: 0 14%;
+}
+.extra-s{
+    font-size: 60px;
+    padding-left: 120px;
+}
+.s-text{
+    width: 500px;
+    padding-left: 120px;
+    font-size: 22px;
+    text-align: justify;
+}
+.extra-s2{
+    font-size: 60px;
+    padding-right: 120px;
+    text-align: right;
+}
+.s-text2{
+    font-size: 22px;
+    text-align: justify;
+    width: 500px;
+    padding-left: 960px;
+    padding-bottom: 200px;
+}
+.text1{
+    font-size: 22px;
+}
+.ol-size{
+    font-size: 40px;
+    padding-left: 35px;
+}
+.table2{
+   padding-left: 315px;
+}
+.text2{
+    text-align: justify;
+    font-size: 22px;
+}
+.ol-size2{
+    font-size: 40px;
+    
+}
+.text3{
+    font-size: 22px;
+    text-align: right;
+    padding-top: 155px;
+}
+.text4{
+    font-size: 22px;
+    padding-top: 42px;
+}
+.end{
+    text-align: center;
+}
+.end-icon{
+    width: 10px;
+}
+.img4{
+    width: 600px;
+    padding-left: 70px;
+}
+.food-title{
+    padding-bottom: 20px;
+    font-size: 30px;
+    padding-left: 100px;
+}
+.food-title1{
+    font-size: 30px;
+    padding-left: 75px;
+    padding-bottom: 20px;
+}
+.text-food{
+    font-size: 20px;
+    padding-left: 100px;
+    width: 700px;
+}
+.img5{
+    width: 600px;
+    padding-left: 100px;
+}
+.text-food2{
+    width: 500px;
+    text-align: justify;
+}
+
+.row {
+    display: inline-block;
+    clear: both;
+    width: 100%
+}
+
+.col {
+    float: left;
+    margin: 1%;
+    width: 48%;
+}
+
+.col .img3 {
+    margin: 30px;
+}
+
+.text-food1{
+    font-size: 20px;
+}
+.video-sumo{
+    width: 500px;
+}
+.table-sumo{
+    padding-left: 100px;
+}
+.sumo-text{
+    padding-left: 30px;
+    font-size: 20px;
+}
+.sumo-title{
+    padding-left: 20px;
+}
+.img6{
+    width: 500px;
+}
+.table3{
+    padding-left: 100px;
+    padding-top: 30px;
+}
